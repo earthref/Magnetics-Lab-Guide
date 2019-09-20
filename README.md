@@ -8,7 +8,7 @@ This document is incomplete, so we welcome [contributions](CONTRIBUTING.md#contr
 ## Table of Contents
   - [Labs](#labs)
     - [Oregon State University - College of Earth, Ocean, and Atmospheric Sciences](#osu-ceoas)
-    - [University of California, San Diego](#ucsd-sio)
+    - [University of California, San Diego - Scripps Institution of Oceanography](#ucsd-sio)
   - [Instruments](#instruments)
   - [Software](#software)
   - [Resources](#resources)
@@ -122,7 +122,7 @@ A list of institutions and their magnetics (and related) laboratories.
 
 ## Software
 
-  - [ArArCALC](https://earthref.org/ArArCALC)
+  - [ArArCALC](https://earthref.org/ArArCALC)  
     An interactive interface to data reduction in <sup>40</sup>Ar/<sup>39</sup>Ar geochronology
   
   - [Magnetics Information Consortium (MagIC)](https:/earthRef.org/MagIC)  
