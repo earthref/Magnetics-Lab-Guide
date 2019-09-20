@@ -1,7 +1,7 @@
-# Magnetics-Lab-Guide
+# Magnetics Lab Guide
 A community-driven guide to running a scientific magnetics research lab.
 
-This document is incomplete, so we welcome [contributions](CONTRIBUTING.md#contributing). After reading the guide, if you have a question about running your lab or how we run ours, feel free to [create a new issue](issues) or email us directly at mag-lab-guide@earthref.org.
+This document is incomplete, so we welcome [contributions](CONTRIBUTING.md#contributing). After reading the guide, if you have a question about running your lab or how we run ours, feel free to [create a new issue](https://github.com/earthref/Magnetics-Lab-Guide/issues) or email us directly at mag-lab-guide@earthref.org.
 
 *Persistent URL: http://mag-lab-guide.earthref.org*
 
