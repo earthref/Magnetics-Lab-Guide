@@ -9,6 +9,7 @@ This document is incomplete, so we welcome [contributions](CONTRIBUTING.md#contr
   - [Labs](#labs)
     - [Oregon State University - College of Earth, Ocean, and Atmospheric Sciences](#osu-ceoas)
     - [University of California, San Diego - Scripps Institution of Oceanography](#ucsd-sio)
+    - [University of Liverpool - School of Environmental Sciences](#liverpool)
   - [Instruments](#instruments)
   - [Software](#software)
   - [Resources](#resources)
@@ -19,7 +20,7 @@ A list of institutions and their magnetics (and related) laboratories.
 
 ### [Oregon State University - College of Earth, Ocean, and Atmospheric Sciences](https://ceoas.oregonstate.edu/)<a id="osu-ceoas"></a>
 
-- [Paleomagnetic & Environment Magnetic Research Laboratory (OSU P-Mag Lab)](http://paleomag.coas.oregonstate.edu)  
+- [Paleomagnetic & Environment Magnetic Research Laboratory (OSU P-Mag Lab)](http://paleomag.coas.oregonstate.edu)<a id="osu-pmag"></a>
   PI: **Joe Stoner**  
   *The P-Mag Lab is an NSF supported OSU facility dedicated to sediment magnetism and a resource for Pacific NW, national and international scientific communities.*
 
@@ -30,21 +31,8 @@ A list of institutions and their magnetics (and related) laboratories.
     With a 10cm diameter MS2C loop sensor equipped with core track for field measurements and an MS2B for measurement of dual frequency magnetic susceptibility on discrete samples
   - **ASC Model IM-10-30 Impulse Magnetizer**  
     Capable of producing DC field up to 1.2 Tesla
-
-- [OSU Argon Geochronology Lab (OSU-AGL)](http://geochronology.coas.oregonstate.edu)  
-  PI: **Anthony Koppers**  
-  *In our OSU Argon Geochronology Lab we employ the <sup>40</sup>Ar/<sup>39</sup>Ar geochronology method to determine how hotspots evolve and interact with lithosphere, in quantifying rates at which large igneous provinces are constructed, in deciphering the early history of the Earth and Moon, in tracking transport pathways of terrigenous sediments from rivers to deep-sea sediments, and more.*   
-
-  Instruments:
-  - 2 **Thermo Scientific ARGUS VI**  
-    Multi-collector mass spectrometers, each with five fixed Faraday detectors (including amplifier circuits with 10<sup>12</sup> Ohm resistors) and one ion-counting CuBe electron multiplier mounted next to the low mass 36 Faraday detector
-  - **25 W Synrad CO2 Lasers**  
-    With industrial scan head for carrying out gas extractions
-
-  Software:
-  - [ArArCALC](https://earthref.org/ArArCALC)
   
-- [OSU Marine and Geology Repository (OSU-MGR)](http://osu-mgr.org)  
+- [OSU Marine and Geology Repository (OSU-MGR)](http://osu-mgr.org)<a id="osu-mgr"></a>
   PIs: **Joe Stoner** and **Anthony Koppers**  
   *Our mission is to facilitate research, education, and the advancement of scientific knowledge through access and use of our diverse collection of rock, lake, and marine sediment samples.*
   
@@ -74,7 +62,8 @@ A list of institutions and their magnetics (and related) laboratories.
   - Epson Perfection V750 PRO scanner
 
 ### [University of California, San Diego - Scripps Institution of Oceanography](https://scripps.ucsd.edu)<a id="ucsd-sio"></a>
-- SIO Paleomagnetic Laboratory  
+
+- SIO Paleomagnetic Laboratory<a id="sio"></a>
   PIs: **Lisa Tauxe**  
   *Our mission is to facilitate research, education, and the advancement of scientific knowledge through access and use of our diverse collection of rock, lake, and marine sediment samples.*  
 
@@ -88,10 +77,50 @@ A list of institutions and their magnetics (and related) laboratories.
   Software:
   - [PmagPy](https://earthref.org/PmagPy/cookbook/)
 
+### [University of Liverpool - School of Environmental Sciences](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences))<a id="liverpool"></a>
+
+- [Geomagnetism Group](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/research/earth-sciences/geomagnetism/)<a id="liverpool-geo"></a>
+  PIs: **Andy Biggins**
+  *The Geomagnetism Laboratory at the University of Liverpool houses world-class facilities for the undertaking of palaeomagnetic, archaeomagnetic, and rock magnetic experiments.*
+
+  Instruments:
+  - **2G Cryogenic magnetometer**
+    With RAPID sample handling system
+  - **“Tristan” 14 GHz microwave palaeointensity system with low-temperature SQUID magnetometer**
+  - **Agico MFK1-FA Kappabridge with spinner and CS4/CS-L high/low temperature attachments**
+  - **Magnetic Measurements Variable Field Translation Balance (MMVFTB)**
+    Measures hysteresis/IRM/Back-field/thermomagnetic curves
+  - **Magnetic Measurements Super Cooled Thermal Demagnetiser**
+  - **80 Sample Thermal Demagnetiser**
+  - **Agico JR-6A Spinner Magnetometer**
+  - **Agico JR-6 Spinner Magnetometer**
+  - **Agico LDA-5 AF Demagnetiser**
+    Our first instrument to run off a tablet!
+
+  Equipment:
+  - Custom slow cooling oven for cooling rate experiments
+  - 2 MMTD24 Thermal Demagnetisers
+  - Tumbling AF demagnetiser
+  - Meija optical microscope
+  - 2 Molspin Spinner Magnetometers
+  - Rock drills and saws
 
 ## Instruments
 
-  - **2G Enterprises 3-axis Superconducting Rock Magnetometer (SRM)** 
+  - **2G Enterprises 3-axis Superconducting Rock Magnetometer (SRM)**
+  [Liverpool - Geomagnetism](liverpool-geo)
+  
+  - **Agico JR-6A Spinner Magnetometer**
+  [Liverpool - Geomagnetism](liverpool-geo)
+
+  - **Agico JR-6 Spinner Magnetometer**
+  [Liverpool - Geomagnetism](liverpool-geo)
+  
+  - **Agico LDA-5 AF Demagnetiser**
+  [Liverpool - Geomagnetism](liverpool-geo)
+  
+  - **Agico MFK1-FA Kappabridge with spinner and CS4/CS-L high/low temperature attachments**
+  [Liverpool - Geomagnetism](liverpool-geo)
 
   - **Alternating Gradient Force Magnetometer**  
 
@@ -106,24 +135,26 @@ A list of institutions and their magnetics (and related) laboratories.
   - **Curie Balance**  
   
   - **GEOTEK MSCL-S Multi-Sensor Track**  
+    [OSU-MGR](osu-mgr)
 
   - **GEOTEK XZ**  
+    [OSU-MGR](osu-mgr)
 
   - **ITRAX XRF Scanner**
   
   - **Kappabridge Susceptibility Instrument**  
+
+  - **Magnetic Measurements Variable Field Translation Balance (MMVFTB)**
   
-  - **Synrad CO2 Laser**  
+  - **Magnetic Measurements Super Cooled Thermal Demagnetiser**
   
-  - **Thermal Demagnetizer**  
-  
-  - **Thermo Scientific ARGUS VI**  
+  - **Thermal Demagnetizer**
+    [Liverpool - Geomagnetism](liverpool-geo)
+
+  - **“Tristan” 14 GHz microwave palaeointensity system with low-temperature SQUID magnetometer**
 
 
 ## Software
-
-  - [ArArCALC](https://earthref.org/ArArCALC)  
-    An interactive interface to data reduction in <sup>40</sup>Ar/<sup>39</sup>Ar geochronology
   
   - [Magnetics Information Consortium (MagIC)](https:/earthRef.org/MagIC)  
     A paleo- and rock-magnetic portal and database for archiving, searching, and downloading published datasets
