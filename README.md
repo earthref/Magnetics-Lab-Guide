@@ -26,7 +26,7 @@ A list of institutions and their magnetics (and related) laboratories.
   *The P-Mag Lab is an NSF supported OSU facility dedicated to sediment magnetism and a resource for Pacific NW, national and international scientific communities.*
 
   Instruments:
-  - **2G Enterprises 3-axis Superconducting Rock Magnetometer (SRM)** 
+  - **2G Enterprises 3-axis Superconducting Rock Magnetometer** 
     Optimized for u-channel samples, equipped with high resolution DC squids, a software controlled tracking system, in-line alternating field demagnetization coils, in-line DC coil for acquisition of an anhysteric remanent magnetization and a seperate off-line pulse magnetizer for acquisition of an isothermal remanent magnetization for u-channel samples up to fields of 1 Tesla
   - **ASC Model IM-10-30 Impulse Magnetizer**  
     Capable of producing DC field up to 1.2 Tesla
@@ -70,7 +70,7 @@ A list of institutions and their magnetics (and related) laboratories.
 
   Instruments:
   - Alternating Gradient Force Magnetometer
-  - Cryogenic Magnetometer
+  - 2G Cryogenic Magnetometer
   - Curie Balance
   - Kappabridge Susceptibility Instrument
   - Thermal Demagnetizer
@@ -115,8 +115,8 @@ A list of institutions and their magnetics (and related) laboratories.
 
 ## Instruments
 
-  - **2G Enterprises 3-axis Superconducting Rock Magnetometer (SRM)**  
-    [Liverpool-Geomagnetism](liverpool-geo), [OSU P-Mag Lab](osu-pmag)
+  - **2G Enterprises 3-axis Superconducting Rock Magnetometer**  
+    [Liverpool-Geomagnetism](liverpool-geo), [OSU P-Mag Lab](osu-pmag), [Liverpool-Geomagnetism](liverpool-geo), [SIO P-Mag Lab](sio-pmag)
   
   - **Agico JR-6A Spinner Magnetometer**  
     [Liverpool-Geomagnetism](liverpool-geo)
@@ -141,9 +141,6 @@ A list of institutions and their magnetics (and related) laboratories.
 
   - **Beckman Coulter LS 13 320**  
     [OSU-MGR](osu-mgr)
-  
-  - **Cryogenic Magnetometer**  
-    [SIO P-Mag Lab](sio-pmag)
   
   - **Curie Balance**  
     [SIO P-Mag Lab](sio-pmag)
