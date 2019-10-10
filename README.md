@@ -116,7 +116,7 @@ A list of institutions and their magnetics (and related) laboratories.
 ## Instruments
 
   - **2G Enterprises 3-axis Superconducting Rock Magnetometer**  
-    [Liverpool-Geomagnetism](liverpool-geo), [OSU P-Mag Lab](osu-pmag), [Liverpool-Geomagnetism](liverpool-geo), [SIO P-Mag Lab](sio-pmag)
+    [Liverpool-Geomagnetism](liverpool-geo), [OSU P-Mag Lab](osu-pmag), [SIO P-Mag Lab](sio-pmag)
   
   - **Agico JR-6A Spinner Magnetometer**  
     [Liverpool-Geomagnetism](liverpool-geo)
